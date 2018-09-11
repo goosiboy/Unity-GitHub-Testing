@@ -1,3 +1,3 @@
-# Mountain Climber 2D
+# Testing different settings for Unity/GitHub integration
 
-2D Unity android game
+
